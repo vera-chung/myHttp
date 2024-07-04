@@ -1,0 +1,14 @@
+{
+  "name": "myhttp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1,",
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs vera vera@gmail.com"
+  },
+  "keywords": [],
+  "author": "vera",
+  "license": "ISC",
+  "description": "my http server"
+}
